@@ -25,15 +25,32 @@
 * **Năm học**: 2022-2023
 ## QUÁ TRÌNH MÔN HỌC
 <a name ="quatrinh"></a>
-### 1. Nhập môn công nghệ phần mềm
+### 1. Tóm tắt kiến thức
+### WEEK 1: TỔNG QUAN
 
+#### Kỹ thuật phần mềm
+* Nền kinh tế của TẤT CẢ các quốc gia đều phụ thuộc vào phần mềm
+* Nhiều hệ thống được điều khiển bằng phần mềm
+* Kỹ thuật phần mềm liên quan đến các lý thuyết, phương pháp, và công cụ để phát triển phần mềm chuyên nghiệp
+* Chi tiêu cho phần mềm chiếm đáng kể GNP
+#### Chi phí phần mềm
 
+* Chi phí phần mềm thường chi phối chi phí hệ thống máy tính
+* Phần mềm tốn nhiều chi phí để duy trì hơn phát triển
+* Kỹ thuật phần mềm quan tâm đến việc phát triển phần mềm hiệu quả về chi phí
+
+#### Dự án phần mềm thất bại
+
+* Độ phức tạp của hệ thống tăng lên
+* Không sử dụng phương pháp kỹ thuật phần mềm
 <a name ="colab"></a>
-### 2. COLAB ASSSIGNMENTS
+### 2. Assignments
 
+#### WEEK 1: TỔNG QUAN
+Updating...
 
 <a name ="QT"></a>
-### 3. QT IN CLASS
+### 3. Quá trình trên lớp
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
