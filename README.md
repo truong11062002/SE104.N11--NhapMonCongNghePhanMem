@@ -43,6 +43,9 @@
 
 * Độ phức tạp của hệ thống tăng lên
 * Không sử dụng phương pháp kỹ thuật phần mềm
+
+$f(x) = ax^2+bx+c^3x^2$
+
 <a name ="colab"></a>
 ### 2. Assignments
 
