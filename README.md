@@ -43,6 +43,9 @@
 
 * Độ phức tạp của hệ thống tăng lên
 * Không sử dụng phương pháp kỹ thuật phần mềm
+
+$f(x) = ax^2+bx+c^3x^2$
+
 <a name ="colab"></a>
 ### 2. Assignments
 
@@ -64,6 +67,10 @@ Updating...
 | 2      | 20520481      | Lê Trương Ngọc Hải     |https://github.com/letruongngochai                    |20520481@gm.uit.edu.vn   |
 | 3      | 20520355      | Lê Thị Phương Vy       |https://github.com/Ceci-june                          |20520355@gm.uit.edu.vn   |
 | 4      | 20520309      | Lại Chí Thiện          |https://github.com/laichithien                        |20520309@gm.uit.edu.vn   |
+| 5      | 20520856      | An Trương Tường Vi     |https://github.com/AnTTViiii                          |20520856@gm.uit.edu.vn   |
+| 6      | 20520792      | Trần Thị Anh Thư       |https://github.com/anhthu1402                         |20520792@gm.uit.edu.vn   |
+| 7      | 20520825      | Trương Thị Mai Trinh   |https://github.com/ttmt2002                           |20520825@gm.uit.edu.vn   |
+| 8      | 20521587      | Trần Văn Lực           |https://github.com/VanlucCS                           |20521587@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 1. Tên đồ án: Updating...
