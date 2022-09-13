@@ -46,6 +46,7 @@
 
 $f(x) = ax^2+bx+c^3x^2$
 
+### WEEK 2: 
 <a name ="colab"></a>
 ### 2. Assignments
 
