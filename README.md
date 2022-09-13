@@ -50,7 +50,8 @@ $f(x) = ax^2+bx+c^3x^2$
 ### 2. Assignments
 
 #### WEEK 1: TỔNG QUAN
-Updating...
+[Bài tập tổng quan](https://github.com/truong11062002/SE104.N11/tree/main/Assignments/Week01)
+
 
 <a name ="QT"></a>
 ### 3. Quá trình trên lớp
@@ -71,6 +72,7 @@ Updating...
 | 6      | 20520792      | Trần Thị Anh Thư       |https://github.com/anhthu1402                         |20520792@gm.uit.edu.vn   |
 | 7      | 20520825      | Trương Thị Mai Trinh   |https://github.com/ttmt2002                           |20520825@gm.uit.edu.vn   |
 | 8      | 20521587      | Trần Văn Lực           |https://github.com/VanlucCS                           |20521587@gm.uit.edu.vn   |
+| 9      | 19521263      | Đỗ Thị Ngọc Bích           |https://github.com/142127a                           |19521263@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 1. Tên đồ án: Updating...
