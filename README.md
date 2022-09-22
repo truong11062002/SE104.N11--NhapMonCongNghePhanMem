@@ -44,13 +44,44 @@
 * Độ phức tạp của hệ thống tăng lên
 * Không sử dụng phương pháp kỹ thuật phần mềm
 
-$f(x) = ax^2+bx+c^3x^2$
+
+#### Phát triển phần mềm chuyên nghiệp
+
+**Phần mềm là gì?** 
+Các chương trình máy tính và tài liệu liên quan. Sản phẩm phần mềm có thể được phát triển cho một khách hàng cụ thể hoặc một thị trường chung.
+
+**Các tính chất của một phần mềm tốt là gì?**
+Phần mềm tốt phải cung cấp chức năng, hiệu suất cần thiết cho người dùng, và có thể bảo trì, đáng tin cậy, sử dụng được.
+
+**Kỹ thuật phần mềm là gì?**
+
+Kỹ thuật phần mềm là một ngành kỹ thuật liên quan đến tất cả các khía cạnh của sản xuất phần mềm.
+
+#### Phân loại sản phẩm phần mềm
+
+* Sản phẩm chung
+* Sản phẩm tùy chỉnh
+
+#### Tính chất cơ bản của phần mềm tốt
+
+* Maintainability – Khả năng bảo trì
+* Dependability and security – Độ tin cậy và bảo mật
+* Efficiency – Hiệu quả
+* Acceptability – Khả năng chấp nhận
+
+#### Các hoạt động của quy trình phần mềm
+
+* Đặc tả phần mềm (Software specification), nơi khách hàng và kỹ sư xác định phần mềm sẽ được sản xuất và các rang buộc đối với hoạt động của nó
+* Phát triển phần mềm (Software development), nơi phần mềm được thiết kế và lập trình.
+* Xác thực phần mềm (Software validation), nơi phần mềm được kiểm tra để đảm bảo rằng đó là những gì khách hàng yêu cầu.
+* Tiến hóa phần mềm (Software evolution), nơi phần mềm được sửa đổi để phản ánh các yêu cầu thay đổi của khách hàng và thị trường.
 
 <a name ="colab"></a>
 ### 2. Assignments
 
 #### WEEK 1: TỔNG QUAN
-Updating...
+[Bài tập tổng quan](https://github.com/truong11062002/SE104.N11/tree/main/Assignments/Week01)
+
 
 <a name ="QT"></a>
 ### 3. Quá trình trên lớp
@@ -71,6 +102,7 @@ Updating...
 | 6      | 20520792      | Trần Thị Anh Thư       |https://github.com/anhthu1402                         |20520792@gm.uit.edu.vn   |
 | 7      | 20520825      | Trương Thị Mai Trinh   |https://github.com/ttmt2002                           |20520825@gm.uit.edu.vn   |
 | 8      | 20521587      | Trần Văn Lực           |https://github.com/VanlucCS                           |20521587@gm.uit.edu.vn   |
+| 9      | 19521263      | Đỗ Thị Ngọc Bích           |https://github.com/142127a                           |19521263@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 1. Tên đồ án: Updating...
