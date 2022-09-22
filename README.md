@@ -80,8 +80,8 @@ Kỹ thuật phần mềm là một ngành kỹ thuật liên quan đến tất 
 ### 2. Assignments
 
 #### WEEK 1: TỔNG QUAN
-[Bài tập tổng quan](https://github.com/truong11062002/SE104.N11/tree/main/Assignments/Week01)
-
+* [Bài tập tổng quan](https://github.com/truong11062002/SE104.N11/tree/main/Assignments/Week01)
+* [Quy trình phần mềm](https://github.com/truong11062002/SE104.N11/tree/main/Assignments/Week02)
 
 <a name ="QT"></a>
 ### 3. Quá trình trên lớp
