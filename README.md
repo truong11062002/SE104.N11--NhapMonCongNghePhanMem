@@ -105,8 +105,6 @@ Kỹ thuật phần mềm là một ngành kỹ thuật liên quan đến tất 
 | 9      | 19521263      | Đỗ Thị Ngọc Bích           |https://github.com/142127a                           |19521263@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-1. Tên đồ án: Updating...
-
-## DEMO ĐỒ ÁN
+TÊN ĐỀ TÀI: LEARNING ENGLISH BY CAMERA
 
 
